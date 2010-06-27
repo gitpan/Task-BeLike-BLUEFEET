@@ -1,0 +1,8 @@
+Revision history for Perl extension DBIx::ResultSet.
+
+0.02      2010-06-26
+  - Add Changes file (woops).
+
+0.01      2010-06-26
+  - First release.
+

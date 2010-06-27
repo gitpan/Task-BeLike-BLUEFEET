@@ -1,6 +1,6 @@
 package Task::BeLike::BLUEFEET;
 BEGIN {
-  $Task::BeLike::BLUEFEET::VERSION = '0.01';
+  $Task::BeLike::BLUEFEET::VERSION = '0.02';
 }
 1;
 __END__
