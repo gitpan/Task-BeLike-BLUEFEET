@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+lib/Task/BeLike/BLUEFEET.pm
+t/00-compile.t
+t/release-pod-syntax.t
